@@ -1,0 +1,16 @@
+thead{
+    color: white;
+    background-color: yellowgreen;
+}
+table {
+    border-collapse: collapse;
+    border-color: 4fb206;
+    width: 500px;
+    background-color: white;
+}
+td {
+    height: 30px;  
+}
+img {
+    width: 18px;
+}

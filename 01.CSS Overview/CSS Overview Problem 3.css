@@ -1,0 +1,25 @@
+
+ header {
+     text-align: center;
+     color: white;
+ }
+ body {
+     background-color: darkgray;
+ }
+ b {
+     color: white; 
+ }
+ li { 
+     list-style-type: none; 
+     text-align: center;
+ }
+ p {
+     color: white;
+     font-size: 30px;
+ }
+ h4 {
+     text-align: center;
+ }
+table tr td h5{
+     background-color: white;
+ }

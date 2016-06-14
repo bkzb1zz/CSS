@@ -1,0 +1,24 @@
+h4 {
+      color: darkgray;
+    }
+    table td a {
+      color: red;
+    }
+    table td {
+      color: white;
+    }
+    table td h3 {
+        color: darkgray;
+        font-style:normal;
+      }
+      table {
+        background-color: gray;
+      }
+      table tr td div {
+          color: white;
+          font-style: italic;
+          text-align: top;
+        }
+        tr td {
+          width: 150px;
+        }
